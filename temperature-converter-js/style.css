@@ -1,0 +1,98 @@
+body{
+  margin-top: 60px;
+  text-align:center;
+}
+.button-35{
+  float: right;
+  
+ 
+
+
+  align-items: center;
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: transparent 0 0 0 3px,rgba(18, 18, 18, .1) 0 6px 20px;
+  box-sizing: border-box;
+  color: #121212;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 1 1 auto;
+  font-family: Inter,sans-serif;
+  font-size: 1.0rem;
+  font-weight: 500;
+  justify-content: center;
+  line-height: 1;
+  margin: 0;
+  outline: none;
+  padding: 1rem 1.2rem;
+  text-align: center;
+  text-decoration: none;
+  transition: box-shadow .2s,-webkit-box-shadow .2s;
+  white-space: nowrap;
+  border: 0;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-35:hover {
+  box-shadow: #121212 0 0 0 3px, transparent 0 0 0 0;
+}
+
+
+
+h1 {
+  padding-bottom: 0.5rem;
+}
+
+input[type=number] {
+  cursor: pointer;
+}
+
+#input-celsius{
+  background-color: #52DDCF;
+  font-size: 2.5rem;
+  font-family: monospace;
+}
+
+#input-fahrenheit{
+  background-color: #16BAC5;
+  font-size: 2.5rem;
+  font-family: monospace;
+}
+
+#input-kelvin{
+  background-color: #42a0d9;
+  font-size: 2.5rem;
+  font-family: monospace;
+}
+
+.form-padding {
+  padding: 2rem 1rem;
+  
+}
+
+::-webkit-input-placeholder {
+  color: #FFFFFF !important;
+}
+::-moz-placeholder {
+  color: #FFFFFF !important;
+}
+:-ms-input-placeholder {
+  color: #FFFFFF !important;
+}
+:-moz-placeholder {
+  color: #FFFFFF !important;
+}
+
+footer{
+  padding-top: 1.5rem;
+  font-size: 0.7rem;
+  line-height: 0.2rem;
+  text-align:center;
+}
+
+.icons{
+  max-width: 25px;
+  height: auto;
+}
